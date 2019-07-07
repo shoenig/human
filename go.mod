@@ -1,1 +1,3 @@
-module github.com/shoenig/human
+module go.gophers.dev/pkgs/human
+
+go 1.12
