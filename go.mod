@@ -1,3 +1,3 @@
-module go.gophers.dev/pkgs/human
+module gophers.dev/pkgs/human
 
 go 1.12
