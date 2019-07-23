@@ -1,7 +1,5 @@
-// Author hoenig
-// License MIT
-
-package human
+// Package human provides convenience for human readable representations
+package human // import "gophers.dev/pkgs/human"
 
 import (
 	"bytes"
